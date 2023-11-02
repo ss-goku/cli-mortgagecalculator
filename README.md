@@ -1,5 +1,7 @@
 # Welcome to the Mortgage Calculator 🏡
 
+![Screenshot](https://github.com/ss-goku/cli-mortgagecalculator/blob/main/cli-mortgagecalculator%20screenshot.png)
+
 Hey there! If you're looking to understand the nitty-gritty of your mortgage loan, you've come to the right place. I've put together this simple Python script that'll break down the numbers for you. Don't worry, you don't need to be a tech wizard to use it. Just follow the steps below, and you'll have all the info you need in no time!
 
 ## How to Use
