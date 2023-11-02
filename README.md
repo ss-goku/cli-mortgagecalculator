@@ -9,7 +9,7 @@ This simple Python script is your go-to tool for understanding the details of a 
 3. Navigate to the folder where you've downloaded the script.
 4. Run the following command:
     ```
-    python mortgage_calculator.py
+    python cli-mortgagecalculator.py
     ```
 5. The script will prompt you to enter the principal amount of the loan, annual interest rate, and number of terms in years. Just type in the numbers and press enter.
 6. Sit back and watch the script calculate your monthly payment, total interest paid, and total amount paid over the term of the loan.
@@ -24,6 +24,6 @@ Once you've entered the required information, the script will output the followi
 
 ## Friendly Reminder
 
-Remember, this script is just a tool to help you understand your mortgage better. It's always a good idea to consult with a financial advisor or mortgage professional to get accurate and personalized advice.
+Remember, this script is just a tool to help you understand your mortgage better.
 
 Happy house hunting! 🏡🏡🏡
